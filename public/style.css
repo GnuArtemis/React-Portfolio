@@ -1,0 +1,84 @@
+body {
+    background-image: radial-gradient(circle at 100%,rgb(40, 1, 102),#7791a1 50%,#5375e2 75%,rgb(156, 213, 223) 25%);
+}
+
+.container {
+    width: 95%;
+    margin: auto;
+}
+
+.col,.col-md-10 {
+    background-color: #FFfff0;
+}
+
+.line-break {
+    border: 4px solid blueviolet;
+    border-radius: 20%;
+    background-color: blueviolet;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 12px;
+}
+
+#headshot {
+    margin-right: 12px; 
+    margin-bottom: 2px;
+    width: 100%;
+    max-width: 250px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-image: linear-gradient(45deg, #333333,blueviolet);
+    color: darkgray;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.navbar {
+    background-color: #FFfff0;
+}
+.form-row{
+    width: 85%;
+    margin-left: .75rem;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+
+    margin-bottom: 1rem;
+}
+
+.content-title {
+    padding-top: 1rem;
+}
+.content-title h2 {
+    font-weight: bolder;
+}
+.row h3 {
+    margin: 5%;
+}
+
+.brand-design {
+    background-color: #792DBF;
+    font-style: italic;
+    font-weight: bold;
+    padding: .5rem;
+}
+.footer span {
+    padding: .5rem;
+}
+
+a.h3{
+    color: #111111;;
+}

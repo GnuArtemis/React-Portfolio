@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Music Chord Identifier",
+        "href": "/chord-identifier",
+        "image":"Assets/Chord Identifier Main.PNG",
+        "alt": "Image of the Chord Identifier project, with a piano keyboard and several informational sections",
+        "description": "The Music Chord Identifier is an educational app that can take in any combination of user inputs, represented with a fully functional keyboard, and return a musical chord analysis. Please click on the image for more information.",
+        "github":"https://github.com/GnuArtemis/Music-Chord-Identifier",
+        "deploy":"https://gnuartemis.github.io/Music-Chord-Identifier/index.html"
+    },
+    {
+        "title": "Burger App",
+        "href": null,
+        "image":"Assets/Burger List Image.PNG",
+        "alt": "Burgers are split into two categories, NOT YET EATEN and DEVOURED. Buttons let you move the burgers from one list to another.",
+        "description": "The Burger app has full CRUD functionality, with a dynamically generated layout using express-handlebars and mysql. This was an individually built full-stack application.",
+        "github":"https://github.com/GnuArtemis/Burger-List",
+        "deploy":"https://secure-forest-19513.herokuapp.com/"
+    },
+    {
+        "title": "Personify",
+        "href": "/personify",
+        "image":"Assets/Personify Image.PNG",
+        "alt": "Profile page of Personify, with bars filled out for the personality composite",
+        "description": "Personify is a personality quiz app, allowing users to not only recieve individual results for each test they take but see their answer history through their personal profile, only available while logged in. Please click on the image for more information.",
+        "github":"https://github.com/emilygoeres/Personality-Quiz",
+        "deploy":"https://personify-personality-quiz.herokuapp.com/"
+    },
+    {
+        "title": "Pokemon Quiz Game",
+        "href": null,
+        "image":"Assets/Pokemon Quiz Image.PNG",
+        "alt": "Home page of the Pokemon quiz, displaying a navbar with a timer, a prominent trivia question, and a list of clickable answers",
+        "description": "The Pokemon Quiz is a fast, flexible gaming/quiz app, that tests the user's pokemonknowledge, saving the high score between browser sessions to allow users to compete!",
+        "github":"https://github.com/GnuArtemis/Trivia-Quiz",
+        "deploy":"https://gnuartemis.github.io/Trivia-Quiz"
+    },
+    {
+        "title": "Plantit-Coming Soon!",
+        "href": null,
+        "image":"http://www.coldclimategardening.com/wp-content/uploads/featured-image-placeholder-plants.jpg",
+        "alt": "Placeholder image of a kitten",
+        "description": "Plantit-a forum, information center, and landscape planner for all your gardening needs! Not yet available.",
+        "github":"https://github.com/GnuArtemis/",
+        "deploy":"https://github.com/GnuArtemis/"
+    },
+    {
+        "title": "Fitness Notebook",
+        "href": null,
+        "image":"Assets/Fitness Notebook Image.PNG",
+        "alt": "Front page of the fitness notebook, with a view of workouts and exercises and options to edit and add exercises.",
+        "description": "The Fitness Notebook has Create Read Update functionality, with a dynamically generated layout using express-handlebars and mongo database underlying. This was an individually built full-stack application.",
+        "github":"https://github.com/GnuArtemis/Fitness-Notebook",
+        "deploy":"https://fitness-notebook.herokuapp.com/"
+    }
+]

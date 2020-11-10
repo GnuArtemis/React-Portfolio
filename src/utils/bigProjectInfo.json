@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Music Chord Identifier",
+        "image":"Assets/Chord Identifier Main.PNG",
+        "alt": "Image of the Chord Identifier project, with a piano keyboard and several informational sections",
+        "description": "Our group's goal with this project is to create a simple, accessible tool that can be used for learning basic music theory at an approximately 5th-grade level. By way of a virtual keyboard, users can designate note combinations, and upon submission, an analysis of the chord (root and quality, or interval type if less than 3 unique notes) will be displayed. The program displays an exact match if one can be found, and the most likely result with side list of less likely results if no exact match exists. Upon recieving a chordal input, users can also seek out further information about each chord, with a piano representation, a sound example, and in certain situations a definition.",
+        "github":"https://github.com/GnuArtemis/Music-Chord-Identifier",
+        "deploy":"https://gnuartemis.github.io/Music-Chord-Identifier/index.html",
+        "technologyNames":["Materialize","jQuery","Javascript Keyboard","API","API"],
+        "technologyLinks":["https://materializecss.com/", "https://jquery.com/","https://1000mileworld.com/Portfolio/Piano/keyboard.html","http://www.tofret.com/api/", "https://www.scales-chords.com/api/"],
+        "technologyDesc":["CSS framework","Javascript Library","Interactive keyboard","Reference for chord identification","Reference for examples"]
+    },
+    {
+        "title": "Personify",
+        "href": "/personify",
+        "image":"Assets/Personify Image.PNG",
+        "alt": "Profile page of Personify, with bars filled out for the personality composite",
+        "description": "Our group's goal with this project was to not only give the user a wide variety of buzzfeed style quizzes, but to give the user an indication of how they answered across all tests.  You might bewhole wheat bread and Dumbledore from Harry Potter, but what do those results have in common? What unique information is offered? This app relates users, quiz results, and quizzes through a log in system, backed by mysql and node. Additionally, users can create their own quizzes for the benefit of themselves and other users. For more technical information, please refer to the Github repository.",
+        "github":"https://github.com/emilygoeres/Personality-Quiz",
+        "deploy":"https://personify-personality-quiz.herokuapp.com/",
+        "technologyNames":["Bulma","jQuery","node.js","Express","MySql","Handlebars","Bcrypt.js"],
+        "technologyLinks":["https://bulma.io/", "https://jquery.com/","https://nodejs.org/en/","https://expressjs.com/","https://www.mysql.com/","https://www.npmjs.com/package/express-handlebars","https://www.npmjs.com/package/bcrypt"],
+        "technologyDesc":["CSS framework","Javascript Library","Javascript runtime","Javascript library for servers","Database","HTML templates","Javascript library for password security"]
+    }
+]
