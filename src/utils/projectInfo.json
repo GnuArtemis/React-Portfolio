@@ -47,7 +47,7 @@
     {
         "title": "Fitness Notebook",
         "href": null,
-        "image":"Assets/Fitness Notebook Image.PNG",
+        "image":"Assets/Fitness Notebook Image.png",
         "alt": "Front page of the fitness notebook, with a view of workouts and exercises and options to edit and add exercises.",
         "description": "The Fitness Notebook has Create Read Update functionality, with a dynamically generated layout using express-handlebars and mongo database underlying. This was an individually built full-stack application.",
         "github":"https://github.com/GnuArtemis/Fitness-Notebook",
