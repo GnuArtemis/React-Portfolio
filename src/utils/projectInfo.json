@@ -9,7 +9,7 @@
         "deploy":"https://gnuartemis.github.io/Music-Chord-Identifier/index.html"
     },
     {
-        "title": "Burger App",
+        "title": "Whatta Burger",
         "href": null,
         "image":"Assets/Burger List Image.PNG",
         "alt": "Burgers are split into two categories, NOT YET EATEN and DEVOURED. Buttons let you move the burgers from one list to another.",
@@ -36,11 +36,11 @@
         "deploy":"https://gnuartemis.github.io/Trivia-Quiz"
     },
     {
-        "title": "Plantit-Coming Soon!",
-        "href": null,
-        "image":"http://www.coldclimategardening.com/wp-content/uploads/featured-image-placeholder-plants.jpg",
-        "alt": "Placeholder image of a kitten",
-        "description": "Plantit-a forum, information center, and landscape planner for all your gardening needs! Not yet available.",
+        "title": "Plant-it",
+        "href": "/plant-it",
+        "image":"Assets/Plant-it.jpg",
+        "alt": "Landing page of Plant-it",
+        "description": "Plant-it: a forum, information center, and landscape planner for all your gardening needs! Created using React, Plant-it Lets users research plants, discuss with other users, and save their favorite plants for future reference.",
         "github":"https://github.com/GnuArtemis/",
         "deploy":"https://github.com/GnuArtemis/"
     },

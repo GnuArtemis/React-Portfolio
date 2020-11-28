@@ -7,6 +7,7 @@ export default function ProjectCard({info}) {
             <a href={info.href}>
                 <img src={info.image}
                     alt={info.alt}
+                    style= {{height: "250px", width: "max-content"}}
                     className="img-fluid img-thumbnail mt-2 mb-2" />
             </a>
             <div className="d-flex justify-content-between">
