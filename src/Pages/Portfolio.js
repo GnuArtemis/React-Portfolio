@@ -27,14 +27,44 @@ export default function Portfolio() {
                             <div className="col-md-6 text-center">
 
                                 <ProjectCard info={projectInfo[0]}/>
-                                <ProjectCard info={projectInfo[2]}/>
-                                <ProjectCard info={projectInfo[5]}/>
 
                             </div>
 
                             <div className="col-md-6 text-center">
                                 <ProjectCard info={projectInfo[4]}/>
+                                
+                            </div>
+
+
+                        </div>
+
+                        <div className="row">
+                            {/*  Big projects have their seperate page in addition to their small description here. */}
+                            <div className="col-md-6 text-center">
+
+                                <ProjectCard info={projectInfo[2]}/>
+
+                            </div>
+
+                            <div className="col-md-6 text-center">
                                 <ProjectCard info={projectInfo[1]}/>
+                                
+                            </div>
+
+
+                        </div>
+
+                        <div className="row">
+                            {/*  Big projects have their seperate page in addition to their small description here. */}
+                            <div className="col-md-6 text-center">
+
+                                
+                                <ProjectCard info={projectInfo[5]}/>
+
+                            </div>
+
+                            <div className="col-md-6 text-center">
+                                
                                 <ProjectCard info={projectInfo[3]}/>
                                 
                             </div>
