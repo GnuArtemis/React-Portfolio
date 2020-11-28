@@ -32,6 +32,9 @@ function App() {
         <Route exact path="/personify">
         <ProjectPage projectid={1}/>
         </Route>
+        <Route exact path="/plant-it">
+        <ProjectPage projectid={2}/>
+        </Route>
         <Route path="*">
           <p>No match, redirect to home</p>
         </Route>

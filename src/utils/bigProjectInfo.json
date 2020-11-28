@@ -21,5 +21,17 @@
         "technologyNames":["Bulma","jQuery","node.js","Express","MySql","Handlebars","Bcrypt.js"],
         "technologyLinks":["https://bulma.io/", "https://jquery.com/","https://nodejs.org/en/","https://expressjs.com/","https://www.mysql.com/","https://www.npmjs.com/package/express-handlebars","https://www.npmjs.com/package/bcrypt"],
         "technologyDesc":["CSS framework","Javascript Library","Javascript runtime","Javascript library for servers","Database","HTML templates","Javascript library for password security"]
+    },
+    {
+        "title": "Personify",
+        "href": "/plant-it",
+        "image":"Assets/Plant-it.jpg",
+        "alt": "Landing page of Plant-it, with a search option for finding a plant",
+        "description": "Our group's goal with this project was to create a comprehensive gardening site: an information center, a garden planner, and a discussion hub all in one.  Users, whether logged in or not, can search for plants and find the information provided, both the informaiton freely available with Trefle API, and the information provided by users through editing the main section and commenting below. All users may also use the Garden Planner in order to design their garden, although only logged in users can permanently save their garden or display them in the gallery. Logged in users can save their favorite plants for future reference and for use in their garden planner.",
+        "github":"https://github.com/webermg/Plantit-frontend",
+        "deploy":"https://plantit-site.herokuapp.com/",
+        "technologyNames":["React","MongoDB","JSON Web Tokens","node.js","Material UI","Express","Bcrypt.js","Axios","cors","Konva","Lodash","Trefle API"],
+        "technologyLinks":["https://reactjs.org/", "https://www.mongodb.com/","https://jwt.io/introduction/","https://nodejs.org/en/","https://material-ui.com/","https://expressjs.com/","https://www.npmjs.com/package/bcrypt","https://www.npmjs.com/package/axios","https://www.npmjs.com/package/cors","https://www.npmjs.com/package/konva","https://lodash.com/","https://trefle.io/"],
+        "technologyDesc":["User Interface Library","Database","Secure CORS communication","Javascript runtime","Javascript library for servers","Database","Javascript library for password security","XMLHttpRequest library","Connection middleware for easy cross-origin request handling","Image handling support","Iterable support","Information database and REST API about plants"]
     }
 ]

@@ -34,7 +34,7 @@ export default function Navbar() {
                         <div className="dropdown-divider"></div>
                         <a className="dropdown-item" href="/chord-identifier">Music Chord<br/>Identifier</a>
                         <a className="dropdown-item" href="/personify">Personify</a>
-                        <a className="dropdown-item" href="/portfolio#project3">Project 3</a>
+                        <a className="dropdown-item" href="/plant-it">Plant-it</a>
                     </div>
                 </li>
                 {/* === "/" || */}
