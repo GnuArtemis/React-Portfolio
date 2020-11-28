@@ -40,7 +40,7 @@
         "href": "/plant-it",
         "image":"Assets/Plant-it.jpg",
         "alt": "Landing page of Plant-it",
-        "description": "Plant-it: a forum, information center, and landscape planner for all your gardening needs! Created using React, Plant-it Lets users research plants, discuss with other users, and save their favorite plants for future reference.",
+        "description": "Plant-it: a forum, information center, and landscape planner for all your gardening needs! Created using React, Plant-it Lets users research plants, discuss with other users, and save their favorite plants for future reference. Please click on the image for more information.",
         "github":"https://github.com/GnuArtemis/",
         "deploy":"https://plantit-site.herokuapp.com/"
     },
